@@ -28,11 +28,8 @@ Kickstart the player journey with style and substance. Elevate your server's fir
 
 2. **Script Installation**:
 
-    - Import `boii_loadscreen_beta` into your server resource and ensure the load order is correct. Refer to the image below for guidance on load order.
-
-    ![image](https://cdn.discordapp.com/attachments/900123174669279284/969505774575435786/LOADORDER.jpg?ex=651335dd&is=6511e45d&hm=d7e7dc56675feadea2ad07d447df2429e9e052d8bc0049c16bbb3665650a6a51&)
-
-    - If your server doesn't utilize categorized folders, add `ensure boii_jobcenter` to your `server.cfg`.
+    - Import `boii_loadscreen_beta` into your server resources and ensure it.
+    - If your server doesn't utilize categorized folders, add `ensure boii_loadscreen_beta` to your `server.cfg`.
 
 3. **Restart Server**:
 
